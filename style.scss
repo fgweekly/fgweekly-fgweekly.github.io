@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 35px;
   a {
     color: inherit;
   }
@@ -157,7 +157,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid $darkerGray;
 
   @include mobile {
     text-align: center;
@@ -274,9 +274,7 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: $yellow;
 }
 
 footer {
@@ -292,9 +290,64 @@ footer {
 
 .mail-container {
   text-align: center;
+  margin:60px;
 }
 
 #mc_embed_signup form {
   text-align:center;
   margin:0;
 }
+
+#mc_embed_signup{
+    background:#fee004; 
+    font:14px Helvetica,Arial,sans-serif;  
+    width:100%;
+    
+    label {
+        display:block;
+        font-size:20px;
+        font-family: 'Open Sans', sans-serif;
+    }
+    
+    
+}
+
+#mce-EMAIL{
+    display: inline-block;
+    padding: 0px 0.4em;
+    vertical-align: middle;
+    border-radius: 3px;
+    min-width: 50px;
+    max-width: 635px;
+    width: 100%;
+    min-height: 32px;
+    background-color: #FFF;
+    border: 2px solid #C9C9C9;
+    margin: 0px 0px 24px;
+    font-family: 'Open Sans', sans-serif;
+   }
+   
+   #mce-EMAIL:focus{
+       border: 2px solid #333;
+      
+   }
+
+#mc_embed_signup .button{
+        background:#e84546;
+        display: inline-block;
+        padding: 0px 0.4em;
+        vertical-align: middle;
+        border-radius: 3px;
+        min-width: 50px;
+        max-width: 635px;
+        width: 50%;
+        min-height: 32px;
+        margin: 0px 0px 24px;
+        border:0;
+        color: #fff;
+
+    }
+
+#mc_embed_signup .button:hover{
+    background:#42afdf;
+    }

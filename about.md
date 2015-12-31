@@ -1,15 +1,20 @@
 ---
 layout: page
-title: About
 permalink: /about/
 ---
 
-Some information about you!
+#Our philosophy
+    
+The past 8 years saw the rise of fighting games and an increasing amount of news about games, tournaments and players.
+This content, by its diversity and quality, is a wonderful testimony of the knowledge, passion and dedication from the fighting game community content creators.
+But this massive amount of information is now overwhelming and we feel it's time for a more slow-paced, curated news outlet.
 
-### More Information
+This is Fighting Games Weekly.
 
-A place to include any other types of information that you'd like to include about yourself.
+#Who we are
 
-### Contact me
+FG Weekly is curated by Thomas [*'Thomasorus'*](https://twitter.com/brownleatherguy) Loreille and Maxime [*'Otaxou'*](https://twitter.com/otaxou) Lancelin-Golbery. 
 
-[email@domain.com](mailto:email@domain.com)
+# Contact us
+
+[contact@fgweekly.com](mailto:contact@fgweekly.com)
