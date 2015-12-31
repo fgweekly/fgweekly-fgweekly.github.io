@@ -249,7 +249,7 @@ nav {
 
 .posts > .post:last-child {
   padding-bottom: 1em;
-  border-bottom: none;
+  border-bottom: 1px solid #333;
 }
 
 .post {
@@ -351,3 +351,56 @@ footer {
 #mc_embed_signup .button:hover{
     background:#42afdf;
     }
+    
+.tip-form {
+    margin:60px;
+    text-align: center;
+        
+        input, textarea {
+            display: inline-block;
+            padding: 0px 0.4em;
+            vertical-align: middle;
+            border-radius: 3px;
+            min-width: 50px;
+            max-width: 635px;
+            width: 69%;
+            min-height: 32px;
+            background-color: #FFF;
+            border: 2px solid #C9C9C9;
+            margin: 0px 0px 24px;
+            font-family: 'Open Sans', sans-serif;
+        }
+        
+        input:focus, textarea:focus{
+       border: 2px solid #333;      
+   }
+   
+        .message {
+           padding:10px;
+        }
+        
+        label {
+            vertical-align: top;
+        }
+        
+        .button{
+        background:#e84546;
+        display: inline-block;
+        padding: 0px 0.4em;
+        vertical-align: middle;
+        border-radius: 3px;
+        min-width: 50px;
+        max-width: 635px;
+        width: 50%;
+        min-height: 32px;
+        margin: 0px 0px 24px;
+        border:0;
+        color: #fff;
+        
+        }
+        
+        .button:hover{
+    background:#42afdf;
+    }
+    }
+    
