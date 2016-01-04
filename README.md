@@ -1,3 +1,5 @@
+![FGW Logo](https://github.com/fgweekly/fgweekly.github.io/blob/master/images/fgw-logo.png)
+
 #FG Weekly
 
 This is  the repo of FG Weekly, a fighting games newsletter built with jekyll and hosted on Github.
