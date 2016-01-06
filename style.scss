@@ -245,8 +245,7 @@ nav {
 
 
 .posts > .post {
-  padding:20px 30px 20px 30px;
- background:white;
+ background:yellow;
  border-bottom: 1px solid #333;
 }
 
@@ -256,7 +255,9 @@ nav {
 }
 
 .post {
- 
+ padding:20px 30px 20px 30px;
+ background:white;
+ border-bottom: 1px solid #333;
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
