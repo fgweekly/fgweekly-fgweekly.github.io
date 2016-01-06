@@ -242,9 +242,15 @@ nav {
 // .main
 //
 
+.posts {
+
+ background:yellow;
+}
+
 .posts > .post {
-  padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  padding:20px 30px 20px 30px;
+ background:white;
+ border-bottom: 1px solid #333;
 }
 
 .posts > .post:last-child {
@@ -253,6 +259,7 @@ nav {
 }
 
 .post {
+ 
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
@@ -404,9 +411,5 @@ footer {
     }
     }
     
-.post {
- padding:20px 30px 20px 30px;
- background:white;
- border-bottom: 1px solid #333;
-}
+
 
