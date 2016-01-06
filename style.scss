@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $yellow;
+background: $yellow;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -36,7 +36,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: regular;
 
   line-height: 1.7;
-  margin: 1em 0 15px;
+  margin: 25px 0 15px;
   padding: 0;
 
   @include mobile {
@@ -268,9 +268,7 @@ nav {
     font-style: italic;
   }
   
-h1 {
-	margin: 1em 0 15px;
-}
+
 
   .comments {
     margin-top: 10px;
