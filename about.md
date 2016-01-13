@@ -13,7 +13,7 @@ This is Fighting Games Weekly.
 
 #Who we are
 
-FG Weekly is curated by Thomas [*'Thomasorus'*](https://twitter.com/brownleatherguy) Loreille and Maxime [*'Otaxou'*](https://twitter.com/otaxou) Lancelin-Golbery. 
+FG Weekly is curated by Thomas [*'Thomasorus'*](https://twitter.com/brownleatherguy) Loreille and Maxime [*'OtaXou'*](http://otaxou.fr/) Lancelin-Golbery. 
 
 Logo and visuals created by Guillaume [*'MVCDLM'*](https://twitter.com/mvcdlm) Brindon.
 
